@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+<g id="Layer_1">
+	<circle id="XMLID_1_" fill="#113B69" cx="512.5" cy="512.5" r="512"/>
+</g>
+<g id="Layer_2">
+	<g id="XMLID_5_">
+		<linearGradient id="XMLID_12_" gradientUnits="userSpaceOnUse" x1="285.733" y1="687.8351" x2="735.7324" y2="336.257">
+			<stop  offset="0.1526" style="stop-color:#3ABEEE"/>
+			<stop  offset="0.2941" style="stop-color:#29ACDD"/>
+			<stop  offset="0.5272" style="stop-color:#1296C7"/>
+			<stop  offset="0.7475" style="stop-color:#0588BA"/>
+			<stop  offset="0.9401" style="stop-color:#0083B5"/>
+		</linearGradient>
+		<path id="XMLID_13_" fill="url(#XMLID_12_)" d="M510.7,226.5C353,226.5,225.2,354.4,225.2,512c0,157.7,127.8,285.5,285.5,285.5
+			c157.7,0,285.5-127.8,285.5-285.5C796.2,354.4,668.4,226.5,510.7,226.5z M510.7,711c-109.9,0-199-89.1-199-199
+			c0-109.9,89.1-199,199-199c109.9,0,199,89.1,199,199C709.7,621.9,620.6,711,510.7,711z"/>
+		<path id="XMLID_11_" fill="#3ABEEE" d="M678.5,281.2L678.5,281.2c-47.1-34.4-105.1-54.6-167.8-54.6
+			C353,226.5,225.2,354.4,225.2,512c0,21.9,2.5,43.2,7.2,63.7h89.8c-6.8-20-10.5-41.4-10.5-63.7c0-109.9,89.1-199,199-199
+			c31.4,0,61.1,7.3,87.6,20.3c1.2,0.6,7.5,3.9,12.4,6.6c1.3,0.8,2.6,1.6,3.9,2.3c1.6,1.1,26,17.3,32.2,18.4c0.3,0.1,0.6,0.2,0.9,0.2
+			l0-0.1c2.1,0.3,4.2,0.5,6.3,0.5c24.2,0,43.8-19.6,43.8-43.8C697.9,302.4,690.2,289,678.5,281.2z"/>
+		<polyline id="XMLID_10_" fill="none" stroke="#FFFFFF" stroke-width="63" stroke-linecap="round" stroke-miterlimit="10" points="
+			405.5,531.4 467.6,593.5 622.2,438.9 		"/>
+	</g>
+</g>
+<g id="Layer_3">
+</g>
+</svg>
